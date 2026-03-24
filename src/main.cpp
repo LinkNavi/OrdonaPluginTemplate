@@ -1,4 +1,4 @@
-#include "../../include/plugin.h"
+#include "plugin.h"
 #include <iostream>
 
 static void on_init() {}
